@@ -1,0 +1,20 @@
+{
+    "mytodoer": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-todoer-demo-mytodoer-93609-authRole",
+            "UnauthRoleArn": "arn:aws:iam::411744094324:role/amplify-todoer-demo-mytodoer-93609-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::411744094324:role/amplify-todoer-demo-mytodoer-93609-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-todoer-demo-mytodoer-93609-deployment",
+            "UnauthRoleName": "amplify-todoer-demo-mytodoer-93609-unauthRole",
+            "StackName": "amplify-todoer-demo-mytodoer-93609",
+            "StackId": "arn:aws:cloudformation:us-east-1:411744094324:stack/amplify-todoer-demo-mytodoer-93609/bf211e40-78d4-11ea-89ca-12a417a66525",
+            "AmplifyAppId": "d19dwwwthl8m1s"
+        },
+        "categories": {
+            "auth": {
+                "todoerdemoba42fe6b": {}
+            }
+        }
+    }
+}

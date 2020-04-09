@@ -42,3 +42,26 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+To follow along with this lab, you'll need:
+
+1. A text editor (I use https://atom.io/)
+2. A terminal program, and basic understanding of how to use the command line.
+  - Check out: https://acloud.guru/series/acg-fundamentals/view/cli-basics-part-1
+3. NPM, a package manager for Javascript: https://www.npmjs.com/
+4. The create-react-app script, which can be installed via the command line with npm:
+  - `npm install -g create-react-app`
+5. AWS Amplify:
+  - `npm install -g aws-amplify aws-amplify-react`
+6. Install the Amplify CLI:
+  - `npm install -g @aws-amplify/cli`
+7. An AWS account.
+8. The AWS CLI installed and configured
+  - Check out: https://acloud.guru/series/acg-fundamentals/view/1164062a-4271-8a90-fa22-e0fd52a2b92b
+  - And: https://acloud.guru/series/acg-fundamentals/view/e622d3ac-74ff-e275-0a09-8d26dae7678f
+9. Configure Amplify:
+  - `amplify configure` and then follow the process to configure AWS credentials
+10. Initialize Amplify:
+  - In the project directory, run `amplify init` and provide the relevant details.
+11. Run the project locally:
+  - In the project directory, run `npm start`
